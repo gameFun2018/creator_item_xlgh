@@ -1,0 +1,41 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.MainGame",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "startScene": "de3d6796-bca6-425e-8905-1e9a267a11d7",
+  "title": "MainGame",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx766185e4839d58c0",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "WX_Sub"
+  },
+  "xxteaKey": "ab8e594c-8689-49",
+  "zipCompressJs": true
+}
